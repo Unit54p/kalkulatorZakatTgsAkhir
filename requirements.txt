@@ -1,0 +1,4 @@
+program ini menggunakan framework flask untuk python
+install flask: pip install flask
+dan pastikan python sudah terisntall juga
+jalankan dengan: python app.py
